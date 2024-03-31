@@ -13,7 +13,6 @@ export function DefaultLayout() {
                 <div className="m-5 w-full">
                     <Outlet />
                 </div>
-                {/* <Separator orientation="vertical" className="ml-auto" /> */}
             </div>
             <div className="hidden sm:inline">
             </div>

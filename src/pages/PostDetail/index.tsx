@@ -54,6 +54,7 @@ export function PostDetail() {
             }).catch(error => {
                 console.log(error);
                 setPost(postInitialState)
+                navigate('/', { replace: true })
             })
     }
 
