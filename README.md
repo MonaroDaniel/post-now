@@ -1,7 +1,7 @@
 # Aplicação Post Now
 
 ## Descrição
-Esta aplicação é um CRUD de posts e comentários que utiliza a API https://jsonplaceholder.typicode.com/. Você pode ver as publicações feitas por outras pessoas, criar suas próprias publicações, visualizar e excluir essas publicações, além de criar comentários em todas as publicações, visualizar e excluir esses comentários.
+Esta aplicação é um CRUD de posts e comentários que utiliza a API https://jsonplaceholder.typicode.com/.<br> Você pode ver as publicações feitas por outras pessoas, criar suas próprias publicações, visualizar e excluir essas publicações, além de criar comentários em todas as publicações, visualizar e excluir esses comentários.
 
 ## Como rodar
 Para executar a aplicação, siga os passos abaixo:
