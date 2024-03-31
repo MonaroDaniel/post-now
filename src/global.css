@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #121214;
+    color: #FFF;
+    font-family: 'Roboto';
+
+    overflow: hidden !important;
+}
+
+::-webkit-scrollbar {
+    width: 8px; /* Largura da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #525355; /* Cor do botão de rolagem */
+    border-radius: 4px; /* Borda arredondada do botão de rolagem */
+}
+
+/* Estilizando a barra de rolagem horizontal */
+::-webkit-scrollbar-horizontal {
+    height: 8px; /* Altura da barra de rolagem */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #6B7280; /* Cor do botão de rolagem ao passar o mouse */
+}
