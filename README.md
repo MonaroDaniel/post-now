@@ -17,6 +17,4 @@ Para executar a aplicação, siga os passos abaixo:
 - zod
 - shadcnui
 - tailwindcss
-
-## Licença
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+- react-hot-toast
